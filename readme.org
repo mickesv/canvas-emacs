@@ -1,5 +1,7 @@
 #+TITLE: readme
 
+Started here, then I got hubris: https://github.com/mickesv/cancourse
+
 * setup
 clone this repo and add the following emacs lisp to your init accordingly:
 #+begin_src emacs-lisp
